@@ -1,1 +1,1 @@
-# sunshine_farmers_market
+HTML and css code was written by Janifer Cheng, September 2020, as part of the coursework from "Build Websites from Scratch with HTML & CSS" taught by Brad Hussey from "Freelancing Freedom Code College". Permission for publication of this work is given by Brand Hussey (bradhussey.ca) to Janifer I Cheng (janifer.org) for portfolio use.
